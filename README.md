@@ -7,6 +7,7 @@ Generated SQLite databases for AntoineChalons public web applications.
 | `pet_services.db` | Jeju Pet Care Finder | Private `jeju-petcare-data` |
 | `beaches.db` | Jeju Beach Finder | Private `jeju-beach-data` |
 | `dive_clubs.db` | Jeju Scuba-diving Club Finder | Private `jeju-scuba-data` |
+| `cafes.db` | Jeju Cafe Finder | Private `jeju-cafe-data` |
 
 These files are generated artifacts. Do not edit them directly. Each private
 source-data repository validates its CSV files, builds its database, checks
